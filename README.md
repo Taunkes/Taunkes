@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @Taunkes
-- 👀 I’m interested in programing(obvious) and osu
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Idk?
-- 📫 How to reach me somewhere in internet
+- I’m interested in programming(obvious)
+
+- Today I'am currently learning data science and cpp
+- I’m looking to collaborate on bunch of diffrient project that look interesting
+
+- 📫 How to reach me:
+    discord: taunkes or tauncip#1697
